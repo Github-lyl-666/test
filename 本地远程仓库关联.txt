@@ -1,0 +1,5 @@
+git clone git@github.com:Github-lyl-666/test.git    git@gitee.com:seu666/test_gitee.git
+放文件
+git add .
+git commit -m "注释"
+git push -u origin main
